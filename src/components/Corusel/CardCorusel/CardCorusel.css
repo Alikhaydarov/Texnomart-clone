@@ -1,0 +1,38 @@
+.CardCorusel{
+  position: relative;
+  top: -40px;
+  margin-top: 50px;
+    margin: 80px;
+}
+.CardCorusel .swiper-slide{
+    margin-top: 50px;
+
+}
+.CardCorusel .swiper-button-prev{
+    background-color: #fff;
+    padding: 6px;
+    width: 30px;
+    height: 30px;
+    color: black;
+    border-radius: 50%;
+    font-size:smaller;
+    margin-top: -20px;
+    margin-left: -25px;
+    z-index: 2;
+    box-shadow: 0 0 3px 0 rgba(0,0,0,0.2);
+    
+
+  }
+  .CardCorusel .swiper-button-next{
+    background-color: white;
+    padding: 6px;
+    width: 30px;
+    height: 30px;
+    color: black;
+    border-radius: 50%;
+    font-size:smaller;
+    margin-top: -20px;
+    margin-right: -25px;
+    box-shadow: 0 0 3px 0 rgba(0,0,0,0.2);  
+    z-index: 10;
+  }

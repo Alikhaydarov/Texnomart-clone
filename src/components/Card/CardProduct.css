@@ -1,0 +1,89 @@
+.cardproduct{
+    height: 400px;
+    width: 280px;
+    border-radius: 15px;
+    position: relative;
+    top: -40px;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+}
+.cardproduct img{
+width: 100px;
+
+}
+.Heart{
+    font-size: 20px;
+    position: relative;
+    top: 10px;
+    left: 89%;
+}
+.cardproduct .star{
+    color: rgb(139, 139, 139);
+    margin: 2px;
+    font-size: 13px;
+    position: relative;
+    left: 5px;
+    top: -20px;
+}
+.cardproduct .pricemin{
+    position: relative;
+    top: -40px;
+    left: 10px;
+}
+.cardproduct .img2{
+    width: 100px;
+    height: 10px;
+    display: flex;
+    display: block;
+    position: relative;
+}
+.cardproduct .title{
+    position: relative;
+    left: 5px;
+    margin-bottom: 20px;    
+}
+.cardproduct .priceExam{
+    position: relative;
+    top: 20px;
+    left: -80px;
+    font-weight: bold;
+    background-color: rgb(198, 197, 197);
+    padding: 1px 10px;
+    display: inline-block;
+    border-radius: 10px;
+}
+.btn1{
+    background-color: grey;
+    padding: 5px 15px;
+    font-weight: 700;
+    border: none;
+    outline: none;
+  }
+  .btn2{
+    background-color: grey;
+    padding: 5px 15px;
+    font-weight: 700;
+    position: relative;
+    left: 105px;
+    border: none;
+    outline: none;
+  }
+.cardproduct h3{
+    position: relative;
+    top: 20px;
+    left: 10px;
+  }
+  .cardproduct .Basket{
+    display: flex;
+    font-size: 40px;
+    position: relative;
+    left: 220px;
+    top: 40px;
+    border: goldenrod 3px solid;
+    padding: 5px 8px 8px 5px;  
+    border-radius: 15px;
+  }
+  .cardproduct .price{
+    position: relative;
+    top:   20%;
+    font-size: 20px;
+  }

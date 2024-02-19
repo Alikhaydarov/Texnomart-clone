@@ -1,0 +1,206 @@
+
+.footer-top{
+  background-color: #333333;
+  height: 360px;
+  display: grid;
+  grid-template-columns: 460px 300px 300px 300px;
+  grid-template-rows: 380px 380px 380px 380px;
+  gap: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  min-width: 100%;
+}
+.footer-top .text{
+  margin: 30px;
+  color: white;
+}
+.f-icon{
+  color: white;
+  background-color: #545454;
+  font-size: 25px;
+  padding: 7px 6px;
+  border-radius: 5px;
+  margin: 10px;
+  position: relative;
+  left: 30px;
+  cursor: pointer;
+}
+.footer-top .images{
+  margin: 30px;
+  margin-top: 10px;
+}
+.footer-top img{
+  margin: 5px;
+
+}
+.footer-top .Box1 a{
+  color: white;
+  font-weight: 400;
+  position: relative;
+  top: -20px;
+  left: 35px;
+}
+.footer-top .Box2 .text{
+  margin: 40px 18px;
+}
+.footer-top .Box2 ul{
+  position: relative;
+  left: -40px;
+}
+.footer-top .Box2 ul li{
+  list-style: none;
+  margin-bottom: 10px;
+}
+.footer-top .Box2 ul li a{
+  text-decoration: none;
+  color: white;
+}
+
+.footer-top .Box3 a{
+  color: white;
+  font-weight: 400;
+  position: relative;
+  top: -20px;
+  left: 35px;
+}
+.footer-top .Box3 .text{
+  margin: 40px 18px;
+}
+.footer-top .Box3 h3{
+  position: relative;
+  left: 35px;
+}
+.footer-top .Box3 ul{
+  position: relative;
+  top: 20px;
+  left: -40px;
+}
+.footer-top .Box3 ul li{
+  list-style: none;
+  margin-bottom: 10px;
+}
+.footer-top .Box3 ul li a{
+  text-decoration: none;
+  color: white;
+}
+/* box4 */
+.footer-top .Box4 a{
+  color: white;
+  font-weight: 400;
+  position: relative;
+  top: -20px;
+  left: 35px;
+}
+.footer-top .Box4 .text{
+  margin: 40px 18px;
+}
+.footer-top .Box4 ul{
+  position: relative;
+  top: 30px;
+  left: -40px;
+}
+.footer-top .Box4 h3{
+  position: relative;
+  left: 35px;
+}
+.footer-top .Box4 ul li{
+  list-style: none;
+  margin-bottom: 10px;
+}
+.footer-top .Box4 ul li a{
+  text-decoration: none;
+  color: white;
+}
+.footer-top .Box4 .telegram-bot{
+  text-decoration: none;
+  font-weight: 500;
+  position: relative;
+  top: 40px;
+  left: 50px;
+  border: 2px dashed hsla(0,0%,85%,.2);
+  padding: 13px 20px 13px 20px;
+  align-items: center;
+  border-radius: 10px;
+}
+.footer-top .Box4 .t-icon{
+  font-size: 23px;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  top: 5px;
+  left: -5px;
+}
+/* footer-top end */
+/* footer-button start */
+.footer-button{
+  display: flex;
+  background-color: #333333;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.footer-button small{
+  position: relative;
+  left: 25px;
+  color: #fff;
+  font-size: 12px;
+}
+.footer-button .images{
+  position: relative;
+  left: -35px;
+}
+.footer-button img{
+  margin: 6px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 1100px) {
+    .footer-desktop {
+      display: none;
+    }
+  }

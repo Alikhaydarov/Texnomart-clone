@@ -1,0 +1,85 @@
+.ProductCard{
+    height: 400px;
+    width: 280px;
+    border: black 2px solid;
+    border-radius: 15px;
+    position: relative;
+    top: -100px;
+}
+.ProductCard img{
+    /* width: 5px;
+    height: 15px;
+    position: relative;
+    left: 20px;
+    top: 10px; */
+}
+.Heart{
+    font-size: 20px;
+    position: relative;
+    top: 10px;
+    left: 89%;
+}
+.ProductCard .star{
+    color: rgb(139, 139, 139);
+    margin: 2px;
+    font-size: 13px;
+    position: relative;
+    left: 5px;
+}
+.ProductCard .pricemin{
+    position: relative;
+    top: -40px;
+    left: 10px;
+}
+.ProductCard .img2{
+    width: 100px;
+    height: 10px;
+    display: flex;
+    display: block;
+}
+.ProductCard .title{
+    position: relative;
+    left: 5px;
+    margin-bottom: 20px;
+}
+.ProductCard .priceExam{
+    position: relative;
+    top: -13px;
+    left: 5px;
+    font-weight: bold;
+    background-color: rgb(198, 197, 197);
+    padding: 1px 10px;
+    display: inline-block;
+    border-radius: 10px;
+}
+.btn1{
+    background-color: grey;
+    padding: 5px 15px;
+    font-weight: 700;
+    border: none;
+    outline: none;
+  }
+  .btn2{
+    background-color: grey;
+    padding: 5px 15px;
+    font-weight: 700;
+    position: relative;
+    left: 105px;
+    border: none;
+    outline: none;
+  }
+.ProductCard h3{
+    position: relative;
+    top: 20px;
+    left: 10px;
+  }
+  .ProductCard .Basket{
+    display: flex;
+    font-size: 30px;
+    position: relative;
+    left: 200px;
+    top: -30px;
+    border: goldenrod 3px solid;
+    padding: 5px 8px 8px 5px;  
+    border-radius: 10px;
+  }

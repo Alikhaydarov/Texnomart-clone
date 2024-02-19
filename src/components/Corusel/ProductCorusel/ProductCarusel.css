@@ -1,0 +1,48 @@
+  .Product-Carusel{
+      position: relative;
+      top: -40px;
+      margin-top: 100px;
+        width: 100%;
+        height: 100%;
+    }
+    .Product-Carusel .swiper{
+      height: 100%;
+      width: 80%;
+    }
+    .Product-Carusel .swiper-slide{
+      margin-top: 50px;
+      width: 100%;
+
+  }
+    .Product-Carusel .mySwiper{
+      height: 90%;
+      width: 90%;
+    }
+    .Product-Carusel .swiper-button-prev{
+      background-color: #fff;
+      padding: 6px;
+      width: 30px;
+      height: 30px;
+      color: black;
+      border-radius: 50%;
+      font-size:smaller;
+      margin-top: -20px;
+      margin-left: -25px;
+      z-index: 2;
+      box-shadow: 0 0 3px 0 rgba(0,0,0,0.2);
+      
+
+    }
+    .Product-Carusel .swiper-button-next{
+      background-color: white;
+      padding: 6px;
+      width: 30px;
+      height: 30px;
+      color: black;
+      border-radius: 50%;
+      font-size:smaller;
+      margin-top: -20px;
+      margin-right: -1px;
+      box-shadow: 0 0 3px 0 rgba(0,0,0,0.2);  
+      z-index: 10;
+    }

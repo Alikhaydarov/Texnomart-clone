@@ -1,0 +1,15 @@
+{
+    "translation":{
+        "header-top":{
+            "favorites":"Sevimlilar",
+            "search":"Qidirish"
+        },
+        "header-middle":{
+            "catalog":"Katalog",
+            "search":"Qidirish",
+            "login":"Kirish",
+            "favorites":"Sevimlilar",
+            "Basket":"Savatcha"
+        }
+    }
+}

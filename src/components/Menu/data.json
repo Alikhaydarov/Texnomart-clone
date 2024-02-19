@@ -1,0 +1,197 @@
+[
+    {
+      "id":1,
+      "name":"Samartfonlar va gadjetlar",
+      "icon":"https://mini-io-api.texnomart.uz/catalog/category/small-front-icon/19/a05699c9-17b3-41fb-b5c7-5e0b52db28cd.svg",
+      "submenu":[
+      {
+        "id": 1,
+        "name":"TELEFONLAR",
+        "submenu": [
+        "Smartfonlar",
+        "Samsung smartfonlari",
+        "iphone",
+        "HONOR smartfonlari",
+        "Xiaomi smartfonlari",
+        "Vivo smartfonlari",
+        "OPPO Smartfonlari",
+        "TECNO Smartfonlari",
+        "Huawei smartfonlari",
+        "Realme Smartfonlari",
+        "Nothing Phone smartfonlari"
+      ]
+      },
+      {
+        "id": 2,
+        "name":"GADJETLAR",
+        "submenu":[
+          "Tugmali telefonlar",
+          "Radiotelefonlar",
+          "Smart soatlar",
+          "Smart tarozi",
+          "Fitnes soati",
+          "Virtual haqiqat ko'zoynaklari"
+      ]
+      },
+      {
+        "id": 3,
+        "name":"TELEFON AKSESSUARLARI",
+        "submenu":[
+          "Tashqi batareyalar",
+          "Smartfonlar uchun ushlagichlar",
+          "Quvvatlash qurilmalari",
+          "O'yin aksessuarlari",
+          "USB kabellar",
+          "Xotira kartalari",
+          "Selfi monopodlari",
+          "Quloqchinlar",
+          "G'ilof",
+          "Himoya oynasi",
+          "AUX kabellar"
+        ]
+      },
+      {
+        "id": 4,
+        "name":"PLANSHETLAR",
+        "submenu":[
+          "Samsung Planshetlar",
+          "Xiaomi Planshetlar",
+          "Huawei Planshetlar"
+        ]
+      }
+      ]
+    },
+    {
+      "id":2,
+      "name":"Kompyuter texnikasi",
+      "icon":"https://mini-io-api.texnomart.uz/catalog/category/small-front-icon/10/1d442a2c-9b2a-46f6-95bb-3e8b93ec8022.svg",
+      "submenu":[
+        {
+          "id":1,
+          "name":"KOMPYUTER AKSESSUARLARI",
+          "submenu":[
+            "Wi-Fi Router",
+            "Batareyalar",
+            "Simsiz sichqoncha",
+            "Klaviatura va sichqoncha",
+            "Adapter",
+            "Ryukzaklar",
+            "Hub elektr uzaytirgich",
+            "Noutbuklar uchun sumkalar",
+            "Kompyuter sichqonchalari",
+            "Mikrofon",
+            "Sichqoncha gilamchalari"
+          ]
+        },
+      {
+        "id":2,
+        "name":"TASHQI QATTIQ DISKLAR",
+        "submenu":[
+          "Tashqi qattiq disklar Toshiba",
+          "Tashqi qattiq disklar Apacer",
+          "Tashqi qattiq disklar Seagate",
+          "Tashqi qattiq disklar Hikvision",
+          "Tashqi qattiq disklar Netac",
+          "Tashqi qattiq disklar SP Armor"
+        ]
+      },
+    {
+      "id":3,
+      "name":"PRINTERLAR VA KO'P FUNKSIYALI QURILMALAR",
+      "submenu":[
+        "Printerlar Canon",
+        "Printerlar HP"
+      ]
+    },
+  {
+    "id":4,
+    "name":"RELE VA STABILIZATORLAR",
+    "submenu":[
+      "Voltage stabilizatorlar",
+      "AVT stabilizatorlar"
+    ]
+  }
+  ]
+  
+    },
+    {
+      "id":3,
+      "name":"Maishiy texnika",
+      "icon":"https://mini-io-api.texnomart.uz/catalog/category/small-front-icon/2/f21971b7-7267-451b-b498-be6f5ba2905f.svg",
+      "submenu":[
+        {
+          "id":1,
+          "name":"GADJETLAR",
+          "submenu":[
+            "AUX kabellar",
+            "Fitnes soati"
+          ]
+        }
+      ]
+    },
+    {
+      "id":4,
+      "name":"Ofis jihozlari",
+      "icon":"https://mini-io-api.texnomart.uz/catalog/category/small-front-icon/32/8568525c-31e1-4784-ad5c-0b30a55adbc5.svg"
+    },
+    {
+      "id":5,
+      "name":"Oshxona uchun texnika",
+      "icon":"https://mini-io-api.texnomart.uz/catalog/category/small-front-icon/65/d8f550b1-5587-4949-9da5-fb528a1bee4a.svg"
+    },
+    {
+      "id":6,
+      "name":"Uy uchun idishlar",
+      "icon":"https://mini-io-api.texnomart.uz/catalog/category/small-front-icon/240/99625898-58f9-4c52-aad7-a0e4f7ee4a20.svg"
+    },
+    {
+      "id":7,
+      "name":"Avtomobil uchun mahsulotlar",
+      "icon":"https://mini-io-api.texnomart.uz/catalog/category/small-front-icon/108/43509e57-a2a4-4672-b89e-9a7902aca70e.svg"
+    },
+    {
+      "id":8,
+      "name":"Iqlim texnikasi",
+      "icon":"https://mini-io-api.texnomart.uz/catalog/category/small-front-icon/115/d1f614ce-a042-4671-97f5-15493b966c49.svg"
+    },
+    {
+      "id":9,
+      "name":"Televizorlar va telekartalar",
+      "icon":"https://mini-io-api.texnomart.uz/catalog/category/small-front-icon/23/3f6aef7c-53f3-426a-aac5-b2fbc19e1b57.svg"
+    },
+    {
+      "id":10,
+      "name":"Audiotexnika va hi-fi",
+      "icon":"https://mini-io-api.texnomart.uz/catalog/category/small-front-icon/18/85bae73a-83d2-4c3f-a118-63ce178059bb.svg"
+    },
+    {
+      "id":11,
+      "name":"Go'zallik va salomatlik",
+      "icon":"https://mini-io-api.texnomart.uz/catalog/category/small-front-icon/28/f3f20404-6933-40ce-8aac-d0a05c48c72c.svg"
+    },
+    {
+      "id":12,
+      "name":"Bolalar uchun mahsulotlar",
+      "icon":"https://mini-io-api.texnomart.uz/catalog/category/small-front-icon/164/0ba163ed-4677-4c99-a453-48b57ea854b9.svg"
+    },
+    {
+      "id":13,
+      "name":"Sport va sevimli mashg'ulot",
+      "icon":"https://mini-io-api.texnomart.uz/catalog/category/small-front-icon/173/8689aa4d-f542-4599-a347-839d2f4649d4.svg"
+    },
+    {
+      "id":14,
+      "name":"o'yin konsolari",
+      "icon":"https://mini-io-api.texnomart.uz/catalog/category/small-front-icon/29/b9e71181-b4bc-4a67-9664-165e3fdcfab4.svg"
+    },
+    {
+      "id":15,
+      "name":"Maishiy mahsulotlar",
+      "icon":"https://mini-io-api.texnomart.uz/catalog/category/small-front-icon/183/b4db3df2-a334-405e-a18f-1e927c5c5708.svg"
+    },
+    {
+      "id":16,
+      "name":"Aksiya va chegirmalar",
+      "icon":"https://mini-io-api.texnomart.uz/catalog/category/small-front-icon/205/32e61ff7-fa01-4ad9-be93-410be0463036.svg"
+    }
+  ]

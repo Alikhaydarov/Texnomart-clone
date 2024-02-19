@@ -1,0 +1,38 @@
+.banner_main .swiper {
+  width: 100%;
+  margin-top: -32px;
+  z-index: 0;
+}
+
+.banner_main .swiper-slide {
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  height: 300px;
+}
+
+.banner_main .swiper-slide img {
+  display: block;
+  width: 150%;
+}
+:root {
+  --swiper-navigation-size: 16px; /* To edit the size of the arrows */
+}
+.banner_main .swiper-button-prev {
+  color: black;
+  background-color: #fff;
+  margin-left: 100px;
+
+  width: 40px;
+  height: 80px;
+  border-radius: 50%;
+}
+.banner_main .swiper-button-next {
+  background-color: #fff;
+  margin-right: 100px;
+
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  color: black;
+}

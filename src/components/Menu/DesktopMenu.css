@@ -1,0 +1,115 @@
+@media (max-width: 1380px) {
+    .disktop-menu {
+      width: 100% !important;
+    }
+  }
+.Desktop-menu-container{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+.desktop-menu{
+    width: 98%;
+    height: 74vh;
+    background-color: white;
+    position: absolute;
+    top: -1.4rem;
+    z-index: 111;
+    display: flex;
+    padding: 5px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    border-radius: 15px;
+}
+.desktop-menu-left{
+    background-color: #fff;
+    flex-grow: 1;
+    overflow: auto;
+}
+.desktop-menu-right{
+    background-color: #fff;
+    flex-grow: 10;
+    width: 800px ;
+    overflow: auto;
+}
+.desktop-menu-left ul{
+    margin: 0;
+    padding: 0;
+}
+.desktop-menu-left ul li{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:10px 20px !important;
+    list-style: none;
+    margin: 5px 0;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.desktop-menu-left .li-hover{
+    background-color: #fef3cc;
+    padding:10px 20px !important;
+}
+.desktop-menu-left ul li div{
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+    font-weight: 500;
+    color: gray;
+}
+.desktop-menu-left ul li div img{
+    margin-right: 15px;
+}
+.desktop-menu-left ul li .menu-icon{
+    color: gray;
+
+}
+.desktop-menu-right h2{
+    position: relative;
+    left: 10px;
+    margin: 15px 15px;
+    font-weight: 500;
+    font-size: 20px;
+}
+.desktop-menu-right h4{
+    font-size: 15px;
+}
+.menu-card{
+    padding: 0 10px;
+    width: 20%;
+    position: relative;
+    margin: 0;
+}
+.menu-card ul{
+    margin: 0;
+    padding: 0;
+}
+.menu-card li{
+    list-style: none;
+    /* line-height: 35px; */
+    margin-bottom: 12px;
+}
+
+.menu-right-container{
+    background-color: #fff; 
+    display: flex;
+    justify-content: space-around;
+    overflow: auto;
+    overflow-x: none;
+    height: 370px;
+    width: 100%;
+    color: gray;
+
+    margin: 0;
+}   
+
+@media (max-width: 1380px) {
+    .disktop-menu {
+      width: 100%;
+    }
+  }
+
+
+
